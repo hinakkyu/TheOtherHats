@@ -6,7 +6,7 @@
         "climbresource": "mimikkyu_climb.png",
         "condition": "None",
         "name": "Mimikkyu",
-        "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8\uff08\u4eee\uff09",
+        "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
         "reshasha": "a1d29f24addac61053c3b219215838f8",
         "reshashc": "7633e13e5c94d5aa3ef855cdb1e0b3a9",
         "resource": "mimikkyu_bounce.png"
