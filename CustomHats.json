@@ -7,8 +7,8 @@
         "condition": "None",
         "name": "Mimikkyu",
         "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
-        "reshasha": "df7096e803afd36d12202c439409ec0f",
-        "reshashc": "4578006a65a4fa49925b6a5b6d688da4",
+        "reshasha": "b4ed2049d51f0e229d78b02e1ad01fbe",
+        "reshashc": "55a13318c9190ab01faddbac9cf7b234",
         "resource": "mimikkyu_bounce.png"
       }
       {
@@ -18,8 +18,8 @@
         "condition": "None",
         "name": "\u30a6\u30d1\u30fc",
         "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
-        "reshasha": "01a1725d71aa8613d3dbc0fdbe5705ea",
-        "reshashc": "01da46f27ab67adbcea962dcd10bd633",
+        "reshasha": "3cdeb382facf22866a8c2c521bde9947",
+        "reshashc": "2ce986319b57bae7f883f9e7f70bab11",
         "resource": "upa_bounce.png"
       }
     ]
