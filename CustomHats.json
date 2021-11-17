@@ -13,7 +13,7 @@
     },
     {
       "author": "hinaniki",
-      "bounce": true,
+      "adaptive": true,
       "climbresource": "upa_climb.png",
       "condition": "None",
       "name": "\u30a6\u30d1\u30fc",
