@@ -13,14 +13,17 @@
     },
     {
       "author": "hinaniki",
+      "bounce": true,
       "adaptive": true,
+      "backresource": "upa_back.png",
       "climbresource": "upa_climb.png",
       "condition": "None",
       "name": "\u30a6\u30d1\u30fc",
       "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
       "reshasha": "8f6073487ad6e50d5482fdcf1a2c76a8",
+      "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
       "reshashc": "07e4ab01f914e7f5f8cd27413e83234a",
-      "resource": "upa_adaptive.png"
+      "resource": "upa_bounce_adaptive"
     }
   ]
 }
