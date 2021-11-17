@@ -13,7 +13,6 @@
     },
     {
       "author": "hinaniki",
-      "bounce": true,
       "adaptive": true,
       "backresource": "upa_back.png",
       "climbresource": "upa_climb.png",
