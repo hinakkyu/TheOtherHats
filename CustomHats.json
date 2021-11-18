@@ -23,6 +23,17 @@
       "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
       "reshashc": "07e4ab01f914e7f5f8cd27413e83234a",
       "resource": "upa_bounce_adaptive.png"
+    },
+    {
+      "author": "hinaniki",
+      "bounce": true,
+      "climbresource": "nitori_climb.png",
+      "condition": "None",
+      "name": "\u30a6\u30d1\u30fc",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshasha": "6a6d6b6f62504cb133ec524f4b2288fa",
+      "reshashc": "cc61a5045b822b239aebd5f8ff4576ba",
+      "resource": "nitori_bounce.png"
     }
   ]
 }
