@@ -4,3 +4,4 @@
 # 導入手順
 ■Steam版
 Steam/steamapps/common/Among Us/BepInEx/plugins
+の中にあるDLLを更新
