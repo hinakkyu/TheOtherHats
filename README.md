@@ -3,4 +3,4 @@
 
 # 導入手順
 ■Steam版
-Steam\steamapps\common\Among Us/BepInEx/plugins
+Steam/steamapps/common/Among Us/BepInEx/plugins
