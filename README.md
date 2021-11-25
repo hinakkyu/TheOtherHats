@@ -5,6 +5,6 @@
 |GMver| v3.1.2| [Download](https://github.com/hinakkyu/TheOtherHats/releases/download/v3.1.2GM/TheOtherRolesGM_v3.12.zip)
 
 # 導入手順
-■Steam版
-Steam/steamapps/common/Among Us/BepInEx/plugins
+■Steam版.
+Steam/steamapps/common/Among Us/BepInEx/plugins.
 の中にあるDLLを更新
