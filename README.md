@@ -1,5 +1,5 @@
 # リリース めめ村スキン用
-| Among Us - Version| Mod Version | Link |
+| 種類| バージョン | リンク |
 |----------|-------------|-----------------|
 |本家| v3.1.2| [Download](https://github.com/hinakkyu/TheOtherHats/releases/download/v3.1.2/TheOtherRoles_V3.1.2.zip)
 |GMver| v3.1.2| [Download](https://github.com/hinakkyu/TheOtherHats/releases/download/v3.1.2GM/TheOtherRolesGM_v3.12.zip)
