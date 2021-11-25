@@ -8,3 +8,6 @@
 ■Steam版
 -Steam/steamapps/common/Among Us/BepInEx/plugins
 -の中にあるDLLを更新
+
+- Among Us version 2021.4.14s compatibility
+- Improved the block votes on emergency meeting option
