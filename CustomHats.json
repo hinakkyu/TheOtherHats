@@ -46,5 +46,16 @@
       "reshashc": "576981bb4d61705e96d051fbc136b633",
       "resource": "iemon_bounce.png"
     }
+    {
+      "author": "mizore",
+      "bounce": true,
+      "climbresource": "mizore_climb.png",
+      "condition": "None",
+      "name": "\u307f\u305e\u308c",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshasha": "214991f65919a4bc9a03de574cebbe32",
+      "reshashc": "bbcf50bf912cdae9de9fe0a434b626fd",
+      "resource": "mizore_bounce.png"
+    }
   ]
 }
