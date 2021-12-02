@@ -84,6 +84,16 @@
       "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
       "reshasha": "3ecefa9c13f0488f598dcdeba48eb92e",
       "resource": "latte_touka.png"
+    },
+    {
+      "author": "Hachiman",
+      "climbresource": "Gusao_climb.png",
+      "condition": "None",
+      "name": "\u3050\u3055\u304a",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshasha": "8a05051b97858020f9b2c28a512be95d",
+      "reshashc": "bbcf50bf912cdae9de9fe0a434b626fd",
+      "resource": "Gusao_main.png"
     }
   ]
 }
