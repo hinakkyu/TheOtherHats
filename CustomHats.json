@@ -76,6 +76,14 @@
       "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
       "reshasha": "c18c81318d17d0a77f6264877360cfa6",
       "resource": "latte_bounce.png"
+    },
+    {
+      "author": "hinaniki",
+      "condition": "None",
+      "name": "\u5b88\u8b77\u30e9\u30c6",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshashb": "fd0d59370fdacd558aaf26d1f00bd7b0",
+      "backresource": "latte_back.png"
     }
   ]
 }
