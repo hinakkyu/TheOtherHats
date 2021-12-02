@@ -79,12 +79,10 @@
     },
     {
       "author": "hinaniki",
-      "backresource": "latte_back.png",
       "condition": "None",
       "name": "\u5b88\u8b77\u30e9\u30c6",
       "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
       "reshasha": "3ecefa9c13f0488f598dcdeba48eb92e",
-      "reshashb": "fd0d59370fdacd558aaf26d1f00bd7b0",
       "resource": "latte_touka.png"
     }
   ]
