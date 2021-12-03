@@ -100,6 +100,14 @@
     {
       "author": "mement",
       "condition": "None",
+      "name": "\u304a\u3081\u3093\u3068\u3082\u308a",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshasha": "7847b447d86e5655214fbd6af8ac00d6",
+      "resource": "omento_main.png"
+    },
+    {
+      "author": "mement",
+      "condition": "None",
       "name": "\u9996\u3063\u305f\u3051",
       "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
       "reshasha": "e5d0811f19f2f52d4d74c5c245501917",
