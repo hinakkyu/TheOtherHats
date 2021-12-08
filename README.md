@@ -5,7 +5,7 @@
 |GMver| v3.1.2| [Download](https://github.com/hinakkyu/TheOtherHats/releases/download/v3.1.2GM/TheOtherRolesGM_v3.12.zip)
 |GMver| v3.1.2.1| [Download](https://github.com/hinakkyu/TheOtherHats/releases/download/v3.1.2.1GM/TheOtherRolesGM_v3.1.2.1.zip)
 |GMver| v3.2.2| [Download](https://github.com/hinakkyu/TheOtherHats/releases/download/v3.2.2/TheOtherRolesGM_V3.2.2_GM.zip)
-
+|GMver| v3.2.4| [Download](https://github.com/hinakkyu/TheOtherHats/releases/download/v3.2.4GM/TheOtherRolesMM_v3.2.4.zip)
 
 # 導入手順
 ■Steam版  
