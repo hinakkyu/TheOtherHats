@@ -140,6 +140,14 @@
       "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
       "reshasha": "ede7929b02d10398136a8e27249b841b",
       "resource": "honentomori.png"
+    },
+    {
+      "author": "hinaniki",
+      "condition": "None",
+      "name": "\u4f7f\u5f92",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshasha": "96d10667a27171b2a1a70e0d71ac333b",
+      "resource": "shito.png"
     }
   ]
 }
