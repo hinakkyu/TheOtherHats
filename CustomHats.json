@@ -123,5 +123,15 @@
       "reshashc": "bbcf50bf912cdae9de9fe0a434b626fd",
       "resource": "Gunmuss.png"
     }
+  ],
+  "visors": [
+    {
+      "author": "mement",
+      "condition": "None",
+      "name": "\u9996\u3063\u305f\u3051",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshasha": "15adbc8d3798ce7e9cb4fb6fdb064413",
+      "resource": "kubittake_main.png"
+    }
   ]
 }
