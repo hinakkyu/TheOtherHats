@@ -132,6 +132,14 @@
       "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
       "reshasha": "15adbc8d3798ce7e9cb4fb6fdb064413",
       "resource": "kubittake_main2.png"
+    },
+    {
+      "author": "mement",
+      "condition": "None",
+      "name": "\u9aa8\u68ee",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshasha": "ede7929b02d10398136a8e27249b841b",
+      "resource": "honentomori.png"
     }
   ]
 }
