@@ -122,6 +122,34 @@
       "reshasha": "e57b8b89108e08330199f9b3bf5be67e",
       "reshashc": "bbcf50bf912cdae9de9fe0a434b626fd",
       "resource": "Gunmuss.png"
+    },
+    {
+      "author": "Hachiman",
+      "climbresource": "Skinbackgunmas_climb.png",
+      "condition": "None",
+      "name": "\u30ac\u30f3\u30de\u30b9\u30ed\u30b1\u30c3\u30c8",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshasha": "81de23c9d1249a18b8c9fd108ee050aa",
+      "reshashc": "d8c169c84debf092b4333a843cddacb5",
+      "resource": "Gunmuss.png"
+    },
+    {
+      "author": "Hachiman",
+      "climbresource": "LukaD_climb.png",
+      "condition": "None",
+      "name": "\u30d2\u30ca\u30eb\u30ab",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshasha": "17be0843b80d6f6d9c31830168c5aaa9",
+      "reshashc": "537374ea284189da1ba98531feaca79b",
+      "resource": "LukaD.png"
+    },
+    {
+      "author": "Hachiman",
+      "condition": "None",
+      "name": "\u97f3\u5272\u308c\u30ec\u30a4\u30e9\u30fc",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshasha": "ea786570924d4613315e15e0e5572810",
+      "resource": "otowareLalor.png"
     }
   ],
   "visors": [
