@@ -212,6 +212,22 @@
       "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
       "reshasha": "96d10667a27171b2a1a70e0d71ac333b",
       "resource": "toliki.png"
+    },
+    {
+      "author": "Hachiman",
+      "condition": "None",
+      "name": "\u30d2\u30ca\u30e1\u30c3\u30c81",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshasha": "0465721e7055fd35e4c61bd4c182f6ce",
+      "resource": "HinaHead.png"
+    },
+    {
+      "author": "Hachiman",
+      "condition": "None",
+      "name": "\u30eb\u30ab\u30e1\u30c3\u30c8",
+      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
+      "reshasha": "a3d1a961944f5ebed8ea43a201123c30",
+      "resource": "LukaHead.png"
     }
   ]
 }
