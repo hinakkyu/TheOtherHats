@@ -86,18 +86,6 @@
       "resource": "latte_touka.png"
     },
     {
-      "author": "Hachiman",
-      "backresource": "Gusao_back.png",
-      "climbresource": "Gusao_climb.png",
-      "condition": "None",
-      "name": "gutierrez",
-      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
-      "reshasha": "8a05051b97858020f9b2c28a512be95d",
-      "reshashb": "d8496ef40ab443befe5e66580451de74,",
-      "reshashc": "bbcf50bf912cdae9de9fe0a434b626fd",
-      "resource": "Gusao_main.png"
-    },
-    {
       "author": "mement",
       "condition": "None",
       "name": "\u304a\u3081\u3093\u3068\u3082\u308a",
@@ -162,16 +150,6 @@
       "resource": "Taylor.png"
     },
     {
-      "author": "Hachiman",
-      "climbresource": "toliki_climb",
-      "condition": "None",
-      "name": "\u30c6\u30a4\u30e9\u30fc",
-      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
-      "reshasha": "1cb830261a8761d83959519f54dbd06f",
-      "reshashc": "3e150270ebf125a42fbcca661b7c166c",
-      "resource": "Gusaling.png"
-    },
-    {
       "author": "Hinaniki",
       "condition": "None",
       "name": "\u865a",
@@ -220,14 +198,6 @@
       "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
       "reshasha": "96d10667a27171b2a1a70e0d71ac333b",
       "resource": "shito.png"
-    },
-    {
-      "author": "Hachiman",
-      "condition": "None",
-      "name": "\u3050\u3055\u304a\uff08\u672c\u4f53\uff09",
-      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
-      "reshasha": "96d10667a27171b2a1a70e0d71ac333b",
-      "resource": "toliki.png"
     },
     {
       "author": "Hachiman",
