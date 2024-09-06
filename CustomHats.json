@@ -2,17 +2,6 @@
   "hats": [
     {
       "author": "hinaniki",
-      "bounce": true,
-      "climbresource": "mimikkyu_climb.png",
-      "condition": "None",
-      "name": "\u5316\u3051\u306e\u76ae",
-      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
-      "reshasha": "574aa9613a14ba08b3423ad31081437e",
-      "reshashc": "556338fa4e479df2a1d9256256af714c",
-      "resource": "mimikkyu_bounce.png"
-    },
-    {
-      "author": "hinaniki",
       "adaptive": true,
       "backresource": "upa_back.png",
       "climbresource": "upa_climb.png",
@@ -23,17 +12,6 @@
       "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
       "reshashc": "07e4ab01f914e7f5f8cd27413e83234a",
       "resource": "upa_bounce_adaptive.png"
-    },
-    {
-      "author": "hinaniki",
-      "bounce": true,
-      "climbresource": "nitori_climb.png",
-      "condition": "None",
-      "name": "\u306b\u3068\u308a",
-      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
-      "reshasha": "6a6d6b6f62504cb133ec524f4b2288fa",
-      "reshashc": "cc61a5045b822b239aebd5f8ff4576ba",
-      "resource": "nitori_bounce.png"
     },
     {
       "author": "hinaniki",
@@ -174,22 +152,6 @@
     {
       "author": "Hinaniki",
       "condition": "None",
-      "name": "\u865a",
-      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
-      "reshasha": "eeec45e5cbfff111a9be04c27a6c5f9b",
-      "resource": "bankai.png"
-    },
-    {
-      "author": "Hinaniki",
-      "condition": "None",
-      "name": "\u3081\u3093\u3060\u3053",
-      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
-      "reshasha": "7a021835d7e0fcb8f4c8b53cdd2dc9d1",
-      "resource": "tacopi.png"
-    },
-    {
-      "author": "Hinaniki",
-      "condition": "None",
       "name": "\u307f\u305e\u308c\u5e3d",
       "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
       "reshasha": "0ab91e13f7a7ff95b26fbf5bbfb9dd6b",
@@ -212,14 +174,6 @@
       "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
       "reshasha": "ede7929b02d10398136a8e27249b841b",
       "resource": "honentomori.png"
-    },
-    {
-      "author": "hinaniki",
-      "condition": "None",
-      "name": "\u4f7f\u5f92",
-      "package": "\u3081\u3081\u6751\u30af\u30ed\u30fc\u30bc\u30c3\u30c8",
-      "reshasha": "96d10667a27171b2a1a70e0d71ac333b",
-      "resource": "shito.png"
     },
     {
       "author": "Hachiman",
